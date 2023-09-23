@@ -64,7 +64,6 @@ Once the application is up and running, you can perform the following tasks:
 - Catalog books and maintain borrower records.
 - Process book check-ins and check-outs.
 - Search for books and borrowers.
-- Generate reports and overdue notifications.
 
 
 ---
