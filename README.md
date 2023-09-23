@@ -24,8 +24,6 @@ LibEasy offers the following key features to enhance library management:
 
 - **Search and Retrieval:** Quick and easy book search and retrieval for library staff.
 
-- **Overdue Notifications:** Automated reminders for overdue books and fines.
-
 - **Database Management:** Structured database design for robust data management.
 
 ## Technology Stack
